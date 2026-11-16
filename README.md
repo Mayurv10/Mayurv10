@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mayurv10/Mayurv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg" alt="Solar system of Mayur V" width="100%"/>
 
-Here are some ideas to get you started:
+*I am the sun; my languages are the planets and my projects their moons.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<img src="./assets/sun.svg" alt="The Sun: Mayur V" width="100%"/>
+
+<img src="./assets/moons.svg" alt="Moons: repositories" width="100%"/>
+
+<img src="./assets/planets.svg" alt="Planets: languages" width="100%"/>
+
+<img src="./assets/orbit.svg" alt="Orbit log" width="100%"/>
+
+<div align="center">
+
+**DevOps & Automation** · AI / LLM development · Cybersecurity
+
+[GitHub](https://github.com/Mayurv10)
+
+</div>
